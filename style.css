@@ -5,10 +5,10 @@
 }
 
 :root {
-  --c1: white;
-  --c2: black;
-  --cb: hsl(0,0%,95%);
-  --cs: hsl(0,0%,80%);
+  --c1: rgb(0, 0, 0);
+  --c2: rgb(254, 254, 254);
+  --cb: hsl(0, 0%, 100%);
+  --cs: hsl(0, 0%, 46%);
   --cbs: dodgerblue;
   --cbm: var(--c2);
   --cbh: var(--c2);
